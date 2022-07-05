@@ -1,0 +1,41 @@
+img{
+    height:60%;
+    width:75%;
+    position: relative;
+    left: 10%;
+}
+h2{
+    position: relative;
+    text-align: center;
+}
+p{
+    position: relative;
+    left: 10%;
+}
+a{
+    text-align: center;
+}
+div{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 40%;
+    width: 60%;
+}
+#p1{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    left: 10%;
+}
+#p2{
+    height: 300px;
+    width: 400px;
+    position:relative; 
+    left: 50%;
+}
+#p3{
+    height: 300px;
+    width: 400px;
+    position:relative; 
+    left: 10%;
+}

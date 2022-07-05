@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/happy-office-worker-modern-cartoon-people-characters-illustration-happy-office-worker-modern-cartoon-people-characters-107456907.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#a{
+    background-color:rgb(221, 0, 0) ;
+    border-radius: 5%;
+    color: rgb(255, 255, 255);
+    height: 400px;
+    width: 500px;
+    position: relative;
+    left: 15%;
+}
+#a{
+    
+    padding-left: 2%;
+    padding-right: 2%;
+}
+a{
+    text-align: center;
+}
