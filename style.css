@@ -1,43 +1,39 @@
+a{
+    text-decoration: none;
+    color: red;
+    height: 10px;
+    width: 50px;
+    margin: 10px 25px 10px ;
+    font-size: medium;
+    font-family: monospace;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+
 body{
     background-color: black;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-table{
-    width: 60%;
-    position: relative;
-    left: 40%;
-}
-tr{
-    background-color: black;
-    
-}
-td{
-    height: 50px;
-    column-width:auto;
-    font-size:large;
-    align-items: left;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-weight: bolder;
 }
 h2{
     color:rgb(222, 0, 0);
     font-family:monospace;
-    font-weight: lighter;
+    font-weight: bold;
 }
 h1{
     color: rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
     font-weight: bolder;
 }
-.i1{
+div{
     background-image: url("https://images.unsplash.com/photo-1573323048534-a6f4f4de42a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    background-blend-mode:soft-light;
+    height: 550px;
 }
-.i2{
+h1,h2{
     position: relative;
     left: 65%;
-    
+    top: 12%;
 }
